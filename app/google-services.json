@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671226447110",
+    "firebase_url": "https://chatty-57739.firebaseio.com",
+    "project_id": "chatty-57739",
+    "storage_bucket": "chatty-57739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671226447110:android:e2fef3d9e6deed1b",
+        "android_client_info": {
+          "package_name": "com.example.anshu.chatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671226447110-kqtmur2rogkmjt2oghpdbmoo8iah08il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anshu.chatty",
+            "certificate_hash": "e096a3ee119186be08221a47ec4a51385a5d322e"
+          }
+        },
+        {
+          "client_id": "671226447110-bnbt1oct8u6l57ifrp5po8cgm49njarh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXL_CwogGfi0RYsgijMuVelgADat4BGyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671226447110-bnbt1oct8u6l57ifrp5po8cgm49njarh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
